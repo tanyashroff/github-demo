@@ -1,2 +1,2 @@
 ./a.out
-	"main.c" "add.c" "sub.c"
+	gcc -c main.c add.c power.c
