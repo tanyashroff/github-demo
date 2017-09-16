@@ -1,2 +1,0 @@
-./a.out
-	gcc -c main.c add.c power.c
