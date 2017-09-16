@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<math.h>
 #include "add.c"
 #include "sub.c"
 #include "power.c"
